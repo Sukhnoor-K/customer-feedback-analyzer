@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Java / Maven
+target/
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# Frontend (future)
+node_modules/
+dist/
+build/
+
+# Env
+.env
