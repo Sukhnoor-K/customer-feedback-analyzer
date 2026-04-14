@@ -1,6 +1,6 @@
 # Customer Feedback Analyzer (Spring Boot + Ollama)
 
-A backend application that stores customer feedback and uses a local LLM to generate structured insights including sentiment, themes, and summaries.
+A backend application that stores customer feedback and uses a local LLM to generate structured insights including sentiment, themes, and summaries. Designed prompts to enforce consistent JSON outputs from the LLM, enabling reliable parsing and storage. Can be used for further data analytics purposes.
 
 ## Tech Stack
 
